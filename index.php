@@ -54,7 +54,7 @@
 	</div>
 	<br>
 	<div class="row">
-		<div class="grid-example col s12 center"><span class="flow-text">MAS VENDIDOS</span></div>
+		<div class="grid-example col s12 center"><span class="flow-text">PRODUCTOS MAS VENDIDOS</span></div>
 	</div>
 	<div class="row">
 
